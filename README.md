@@ -6,7 +6,7 @@ nav_order: 1
 
 # Campbell Centre for the Study of Animal Welfare data documentation library
 
-Welcome to the Schema library for the Campbell Centre for the Study of Animal Welfare.
+Welcome to the [Schema library](https://agrifooddatacanada.github.io/CCSAW_schema_library/) for the Campbell Centre for the Study of Animal Welfare.
 
 This is a library of active schema projects.  As the projects are updated, documentation may be refined to reflect the contents.
 
