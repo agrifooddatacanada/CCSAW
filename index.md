@@ -11,11 +11,14 @@ Welcome to the [Schema library](https://agrifooddatacanada.github.io/CCSAW_schem
 This is a library of active schema projects.  As the projects are updated, documentation may be refined to reflect the contents.
 
 Since we are working within GitHub, please note that the complete history of changes is available using GitHub Commit history tools.
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## If you wish to add your schemas to the Library
+
+With data that you have or intend to collect, describe your data using the [Semantic Engine](https://www.semanticengine.org). You will download a .zip version of your schema which is a machine-readable version. Then on the main page of the Semantic Engine drag-and-drop your schema and generate a markdown version.
+
+In [Schema library GitHub repository](https://github.com/agrifooddatacanada/CCSAW_schema_library), upload your markdown file (which you can rename) to the schema folder.
+
+
+After you have made your file changes, commit your changes and wait for the documentation site to rebuild before viewing your results on the [Schema library]().
+
+Learn the GitHub skills to perform this work here: [Documentation site](https://climatesmartagcollab.github.io/Documentation-en/github/).
