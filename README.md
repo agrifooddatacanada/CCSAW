@@ -1,9 +1,3 @@
----
-title: Home
-layout: home
-nav_order: 1
----
-
 # Campbell Centre for the Study of Animal Welfare data documentation library
 
 Welcome to the [Schema library](https://agrifooddatacanada.github.io/CCSAW/) for the Campbell Centre for the Study of Animal Welfare.
